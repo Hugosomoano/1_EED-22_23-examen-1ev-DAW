@@ -1,0 +1,4 @@
+-Modelos agiles
+-Modelos cascada
+-Modelos cascada con feedback
+-Modelos de itinerativo
